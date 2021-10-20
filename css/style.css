@@ -1,0 +1,13 @@
+:root {
+    --background-body: #ccc;
+    --font-body: 25px;
+}
+
+body {
+    background: cornsilk;
+    font-size: 40px;
+}
+
+@media screen and (min-width: 750px) {
+    
+}
